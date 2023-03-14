@@ -92,7 +92,8 @@ body {
   max-height: 100%;
   /* font-family: 'Droid Serif', serif; */
   /* font-family: "Roboto Slab", serif; */
-  font-family: "Open Sans", sans-serif;
+/*  font-family: "Open Sans", sans-serif; */
+  font-family: "Braille", sans-serif;
   font-size: 2rem;
   line-height: 1.6em;
   color: #3a4145;
