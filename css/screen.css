@@ -502,8 +502,9 @@ ul li {
 /* The details of your blog. Defined in ghost/settings/ */
 .blog-title {
   margin: 10px 0 10px 0;
-  font-size: 2rem;
+  font-size: 4rem;
   letter-spacing: -1px;
+  color: #ffc336;
 }
 
 .blog-description {
