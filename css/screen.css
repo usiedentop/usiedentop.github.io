@@ -502,7 +502,7 @@ ul li {
 /* The details of your blog. Defined in ghost/settings/ */
 .blog-title {
   margin: 10px 0 10px 0;
-  font-size: 5rem;
+  font-size: 2rem;
   letter-spacing: -1px;
 }
 
@@ -511,7 +511,7 @@ ul li {
   font-size: 2.5rem;
   line-height: 1.5em;
   font-weight: 400;
-  font-family: "Braille", serif;
+  font-family: "Braille", sans-serif;
   letter-spacing: 0;
 }
 
