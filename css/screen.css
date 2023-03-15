@@ -92,9 +92,8 @@ body {
   max-height: 100%;
   /* font-family: 'Droid Serif', serif; */
   /* font-family: "Roboto Slab", serif; */
-/*  font-family: "Open Sans", sans-serif; */
   font-family: "Braille", sans-serif;
-  font-size: 1.5rem;
+  font-size: 2rem;
   line-height: 1.6em;
   color: #3a4145;
 }
@@ -131,7 +130,7 @@ h6 {
   line-height: 1;
   margin-top: 0;
   margin-bottom: 10px;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Braille", sans-serif;
 }
 h3,
 h4,
@@ -140,12 +139,12 @@ h6 {
   text-rendering: optimizeLegibility;
   line-height: 120%;
   margin-top: 0;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Braille", sans-serif;
   margin-bottom: 0%;
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 4rem;
   line-height: 1.2em;
   letter-spacing: -2px;
   text-indent: -3px;
@@ -163,15 +162,15 @@ h3 {
 }
 
 h4 {
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 h5 {
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 h6 {
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 a {
@@ -200,7 +199,7 @@ a.btn {
   position: relative;
   margin-top: 2rem;
   cursor: pointer;
-  font-family: "Oswald", sans-serif;
+  font-family: "Braille", sans-serif;
   text-transform: uppercase;
   font-weight: lighter;
 }
@@ -512,7 +511,7 @@ ul li {
   font-size: 2.5rem;
   line-height: 1.5em;
   font-weight: 400;
-  font-family: "Roboto Slab", serif;
+  font-family: "Braille", serif;
   letter-spacing: 0;
 }
 
@@ -550,9 +549,10 @@ ul li {
   top: 40px;
   left: 2%;
   z-index: 99999;
-  font-family: "Open Sans Condensed", sans-serif;
+  /*  font-family: "Open Sans Condensed", sans-serif; */
+  font-family: "Braille", sans-serif;
   text-transform: uppercase;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   line-height: 130%;
   font-weight: bold;
 }
@@ -605,7 +605,7 @@ a.fn-item.active {
 .post-meta {
   display: inline-block;
   margin: 0 0 5px 0;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Braille", sans-serif;
   font-size: 1.5rem;
   color: #9eabb3;
 }
@@ -762,7 +762,7 @@ a.fn-item.active {
   width: 80%;
   max-width: 700px;
   margin: 4rem auto;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Braille", sans-serif;
   font-size: 1.3rem;
   color: #9eabb3;
   text-align: center;
@@ -810,7 +810,7 @@ a.fn-item.active {
   position: relative;
   margin: 0rem 0 0 0;
   padding: 1rem 0;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Braille", sans-serif;
   font-size: 1.3rem;
   line-height: 1.5em;
   color: #bbc7cc;
